@@ -38,4 +38,32 @@ In retrospect, the project not only served as a means to an end but also as a si
 
 I take pride in the functionality and utility of the Film Database, which began as a simple idea and has evolved into a useful resource for film enthusiasts. The project encapsulates the technical skills and dedication applied throughout its creation and stands as a representation of both the challenges faced and the knowledge gained.
 
+### Installation
+
+1. **Clone the repository:**
+
+    ```sh
+    git clone https://github.com/amancalledkidd/Python-Film-Manager.git
+    ```
+
+2. **Navigate to the project directory:**
+
+    ```sh
+    cd Python-Film-Manager
+    ```
+
+3. **Install dependencies:**
+
+    Assuming you are using pip, run:
+
+    ```sh
+    pip install tabulate
+    ```
+
+4. **Run the project file:**
+
+    ```sh
+    python.py
+    ```
+
 
